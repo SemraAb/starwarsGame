@@ -11,7 +11,7 @@
 }
 body {
   color: white;
-  /* background-image: url("/assets/img/star_wars_background.jpg"); */
+  background-image: url("img/star_wars_background.jpg");
 }
 p {
   background-color: #343c6b;
