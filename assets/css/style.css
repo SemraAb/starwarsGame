@@ -1,0 +1,26 @@
+.figure img {
+  width: 150px;
+  height: 100px;
+  border-radius: 10px 20px;
+}
+.figure {
+  border: 4px dashed #343c6b;
+  background-color: #fff;
+  border-radius: 10px;
+  cursor: pointer;
+}
+body {
+  color: white;
+  background-image: url("/assets/img/star_wars_background.jpg");
+}
+p {
+  background-color: #343c6b;
+  border-radius: 10px;
+  font-weight: 600;
+}
+.attact {
+  height: 40px;
+  background-color: #343c6b;
+  color: #fff;
+  margin: auto 0;
+}
