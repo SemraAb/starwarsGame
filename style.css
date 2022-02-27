@@ -20,7 +20,18 @@ p {
 }
 .attact {
   height: 40px;
+  width: 100px;
   background-color: #343c6b;
   color: #fff;
   margin: auto 0;
+  border-radius: 10px;
+  font-weight: 600;
+}
+.button{
+  background-color: #adb2d3;
+  border: 2px solid #343c6b;
+  border-radius: 20px;
+  width: 100px;
+  color: #232a50;
+  font-weight: 600;
 }
